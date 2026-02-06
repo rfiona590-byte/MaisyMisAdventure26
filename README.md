@@ -6,6 +6,7 @@ Now the user can customize the chicken they go against!
 As a final add on, i implimented some custom ASCII art from real refrences of Maisey, the main character
 Now  its finished!
 Character Map: 
+
 Name: Maisy
 Species: Dog (97% purebred Australian Shepard, but does NOT look like one)
 personality: awkward, nervous
@@ -20,6 +21,8 @@ Special Traits: Can bend her body in ways dogs really shouldn't be able too
 Decision making style: terribly indecisive
 Hobbies: sleeping, eating, watching birds and squirrels
 Flow Chart used:
+
+
 WELCOME to a Maisy Mis-Adventure Simulator
 |
 |---> Choose Activity (activity_choice)
